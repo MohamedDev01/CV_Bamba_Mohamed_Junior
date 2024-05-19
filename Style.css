@@ -1,0 +1,38 @@
+@font-face
+{
+    font-family: Freeman;
+    src:  url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
+}
+
+header
+{
+    background-color: rgba(93, 91, 95, 0.266);
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+    padding:16px 24px ;
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+h1
+{
+    color : rgb(15, 176, 235); 
+    font-family: Freeman, Arial, Helvetica, sans-serif; 
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.Intro
+{
+    text-align: center;
+}
+
+#Adress 
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
